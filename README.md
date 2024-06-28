@@ -9,9 +9,9 @@ This is a Summarization AI tool which could generate summaries of Long Text , an
 3. It can summarise Longer Text from anywhere easily.
 
 ## Steps To Run
-1. Clone the git repository locally using `git clone https://github.com/PRATHAMU200/SummariseMe.git` run from within the folder you want to store the project in.
+1. Clone the git repository locally using `git clone https://github.com/omtcodez/SummariseMe-AI-.git` run from within the folder you want to store the project in.
   ```
-      git clone https://github.com/PRATHAMU200/SummariseMe.git
+      git clone https://github.com/omtcodez/SummariseMe-AI-.git
   ```
 2. Create virtual environment: 
 	- you can use `virtualenv` I had given a `requirements.txt` file also
